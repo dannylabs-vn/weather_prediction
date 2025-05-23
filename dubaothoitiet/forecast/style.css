@@ -1,0 +1,18 @@
+body {
+    background-color: #f4f9fc;
+}
+h1 {
+    text-align: center;
+    color: #007BFF;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+input {
+    margin-bottom: 15px;
+}
+#result {
+    text-align: center;
+    color: green;
+}
